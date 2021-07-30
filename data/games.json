@@ -3,18 +3,51 @@
         {
             "id": 1,
             "name": "",
-            "date": "2021-01-01",
+            "date": "2021-07-29",
             "description": "",
+            "type": "pool",
             "players": [
                 {
-                    "name": "",
-                    "score": ,
+                    "name": "Philip",
                     "winner": true
                 },
                 {
-                    "name": "",
-                    "score": ,
+                    "name": "Jon",
                     "winner": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "",
+            "date": "2021-07-29",
+            "description": "",
+            "type": "pool",
+            "players": [
+                {
+                    "name": "Philip",
+                    "winner": false
+                },
+                {
+                    "name": "Alex",
+                    "winner": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "",
+            "date": "2021-07-29",
+            "description": "",
+            "type": "pool",
+            "players": [
+                {
+                    "name": "Jon",
+                    "winner": false
+                },
+                {
+                    "name": "Alex",
+                    "winner": true
                 }
             ]
         }
